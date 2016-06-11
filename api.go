@@ -2,7 +2,7 @@
 
 package termbox
 
-import "github.com/mattn/go-runewidth"
+import "github.com/jonas747/go-runewidth"
 import "fmt"
 import "os"
 import "os/signal"
